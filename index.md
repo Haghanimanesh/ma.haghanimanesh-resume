@@ -18,11 +18,13 @@
 .button1 {background-color: #4CAF50;} /* Green */
 .button2 {background-color: #008CBA;} /* Blue */
 </style>
+  
 </head>
 <body>
   <img src="pic3.png" alt="Girl " width="100" height="120">
-<h1>Maedeh Haghanimanesh</h1>
-<p>This is a paragraph.</p>
+  
+<h1 style="color:red">Maedeh Haghanimanesh</h1>
+<p style="color:red">This is a paragraph.</p>
   
  <h1>The button Element</h1>
 
