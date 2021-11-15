@@ -3,9 +3,9 @@
 <head>
   <link rel="stylesheet" href="CSS/app.css">
 </head>
-<body>
+<body class="container is-max-desktop">
 
-<h1>Maedeh Haghanimanesh Rezume Page</h1>
+<h1 class="title" has-text-danger>Maedeh Haghanimanesh Rezume Page</h1>
 
 </body>
 </html>
