@@ -4,7 +4,7 @@
   
 </head>
 <body>
-  <img src="pic1.jifi" alt="Girl in a jacket" width="500" height="600">
+  <img src="pic2.jpg" alt="Girl in a jacket" width="500" height="600">
 <h1>Maedeh Haghanimanesh</h1>
 <p>This is a paragraph.</p>
 
