@@ -4,7 +4,7 @@
   
 </head>
 <body>
-  <img src="pic02.jpg" alt="Girl " width="100" height="120">
+  <img src="pic3.png" alt="Girl " width="100" height="120">
 <h1>Maedeh Haghanimanesh</h1>
 <p>This is a paragraph.</p>
 
