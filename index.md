@@ -31,7 +31,7 @@
 <button class="button button2">Blue</button>
   
   <div>
-    <a href="https://www.w3schools.com">Visit W3Schools.com!</a>
+    <a href="resume-fa.md">Visit W3Schools.com!</a>
   </div>
 
 </body>
