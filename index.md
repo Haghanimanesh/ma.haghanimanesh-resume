@@ -26,12 +26,12 @@
   
  <h1>The button Element</h1>
 
-<button type="button" onclick="resume-fa.md">Click Me!</button>
+<button type="button" onclick="(resume-fa.md)">Click Me!</button>
   <button class="button button1">Green</button>
 <button class="button button2">Blue</button>
   
   <div>
-    <a href="resume-fa.md">Visit W3Schools.com!</a>
+    <a href="(resume-fa.md)">Visit W3Schools.com!</a>
   </div>
 
 </body>
