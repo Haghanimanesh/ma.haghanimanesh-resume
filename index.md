@@ -29,6 +29,10 @@
 <button type="button" onclick="resume-fa.md">Click Me!</button>
   <button class="button button1">Green</button>
 <button class="button button2">Blue</button>
+  
+  <div>
+    <a "button is-danger" href="https://www.w3schools.com">Visit W3Schools.com!</a>
+  </div>
 
 </body>
 </html>
