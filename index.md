@@ -31,7 +31,7 @@
 <button class="button button2">Blue</button>
   
   <div>
-    <a "button is-danger" href="https://www.w3schools.com">Visit W3Schools.com!</a>
+    <a href="https://www.w3schools.com">Visit W3Schools.com!</a>
   </div>
 
 </body>
