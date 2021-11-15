@@ -26,7 +26,7 @@
   
  <h1>The button Element</h1>
 
-<button type="button" onclick="alert('Hello world!')">Click Me!</button>
+<button type="button" onclick="resume-fa.md">Click Me!</button>
   <button class="button button1">Green</button>
 <button class="button button2">Blue</button>
 
