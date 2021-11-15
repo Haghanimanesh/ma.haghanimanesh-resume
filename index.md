@@ -5,7 +5,8 @@
 </head>
 <body class="container is-max-desktop">
 
-<h1 class="title" has-text-danger>Maedeh Haghanimanesh Rezume Page</h1>
+<h1 class="title has-text-danger>Maedeh Haghanimanesh Rezume Page"</h1>
+  <P class="box m-5 has-background-danger>Personal informations</P>
 
 </body>
 </html>
