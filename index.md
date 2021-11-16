@@ -30,7 +30,7 @@
   cursor: pointer;
 }
 
-.button1 {background-color: #0000ff80;} /* Green */
+.button1 {background-color: #008CBA;} /* Green */
 .button2 {background-color: #008CBA;} /* Blue */
 </style>
   
@@ -305,7 +305,7 @@
   <p class="p1">• Research Assistant:Investigation of novel dust control technologies for raw material plant & Thermal energy recovery in annealing process of cold rolling plant. (2019 up to now)</p> 
     <p class="p1">• Numerical investigation of variations in strip speed, water shower pattern and water temperature on high-temperature strip cooling rate in hot strip mill. (2016-2018)</p> 
       <p class="p1">• Design and coding of wet cooling tower. (2014-2015)</p> 
-         <p class="p1">• Design and Optimization of Air Conditioning Control Room of Hot Rolling Building of Isfahan Mubarak Steel Company. (2013-2014)</p> 
+         <p class="p1">• Design and Optimization of Air Conditioning Control Room of Hot Rolling Building of Mobarakeh Steel Complex. (2013-2014)</p> 
             <p class="p1">• Conceptual design of treatment and transfer of wastewater of Zarrin Shahr to Isfahan Steel Company for irrigation purposes. (2012-2013)</p> 
                <p class="p1">• Conceptual design of water transfer from Babashikh Ali refinery to Isfahan smelter. (2011-2012)</p> 
                   <p class="p1">• Energy audit and effective solution of Yazd alloy steel. (2010-2011)</p> 
@@ -314,7 +314,7 @@
   <h1 class="p1" style="font-size:25px"><b>Professional Experiences:</b></h1>
   <p class="p1">	Cooperation with companies active in the field of steel industry on a project-oriented basis. (2015 to 2019)</p>
   <p class="p1">	Fluids department manager at Pouyan Pars CO. (2014 to 2015)</p>
-  <p class="p1">	Energy and Fluids Engineering Specialist at Mobarakeh Steel Engineering Co. (2013 to 2014)</p>
+  <p class="p1">	Energy and Fluids Engineering Specialist at Engineering Department of Mobarakeh Steel Company. (2013 to 2014)</p>
   <p class="p1">	Fluids Engineering Specialist at SBR International Co. (2011 - 2013)</p>
   <p class="p1">	HVAC Engineering Specialist at Bina Esfahan Co. (2009- 2011)</p>
    ------------------------------------------------------------
