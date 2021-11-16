@@ -20,9 +20,9 @@
   <style>
 .button {
   
-  border: 1px solid white;
+  border: 3px solid white;
   color: white;
-  padding: 2px;
+  padding: 1px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -45,6 +45,8 @@
   <p class="p1">- last name : Haghanimanesh</p>
   <p class="p1">- Date of birth : 1986/June/18</p>
   <p class="p1">- location : Esfahan , I.R.Iran</p>
+   <p class="p1">- email : ma.haghanimanesh@eng.ui.ac.ir
+ & haghanimanesh.maedeh@gmail.com , I.R.Iran</p>
   <hr/>
   <!-- -------------------------------------------------------- -->
   <h1 class="p1" style="font-size:25px"><b>Education:</b></h1>
