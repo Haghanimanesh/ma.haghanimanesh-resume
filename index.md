@@ -112,7 +112,7 @@
   
   <p class="p1"><b>4. Maedeh Haghanimanesh</b>, Ehsan Baniasadi. "Thermal Modeling of Heating, Cooling and Solar Power of a Zero Energy Building with TRNSYS and TRNBUILD Software." In preparation. (This article related to the project of Advanced solar energy course)</p>  
   
-    <p class="p1"><b>5. Maedeh Haghanimanesh, Ehsan Baniasadi. "4E analyses of heat recovery processes from the annealing process of cold rolled steel coils." To be submitted. (This article related to the master of science thesis course)</p>  
+  <p class="p1"><b>5. Maedeh Haghanimanesh</b>, Ehsan Baniasadi. "4E analyses of heat recovery processes from the annealing process of cold rolled steel coils." To be submitted. (This article related to the master of science thesis course)</p>  
              
 </body>
 </html>
