@@ -38,7 +38,6 @@
 </head>
 <body>
    <h1 class="p1" style="font-size:30px"><b>Maedeh Haghanimanesh Resume</b></h1>
-   <hr/>
   <img src="pic9.png"  width="200" height="200">
   <hr/>
  <h1 class="p1" style="font-size:25px"><b>Personal informations:</b></h1>
@@ -54,7 +53,7 @@
   <p class="p1">- Thesis title: Exergy-Economic and Exergy-Environmental analysis of heat recovery processes from the annealing process of cold rolled steel coils.</p>
   <p class="p1">- Supervisor: Dr. Ehsan Baniasadi</p>
   <p class="p1">- GPA: 18.11/20</p>
-  <a class="button button1"  href="https://haghanimanesh.github.io/ma.haghanimanesh-resume/abstract1.html"> کلیک ن</a>
+  <a class="button button1"  href="https://haghanimanesh.github.io/ma.haghanimanesh-resume/abstract1.html"> Abstract of Thesis</a>
           
   <h1 class="p1" style="font-size:15px"><b>Bachelor of Science, Mechanical Engineering-Thermo-Fluid Design(2005-2009)</b></h1>
     <p class="p1">- University of Kashan</p>
@@ -66,7 +65,7 @@
    <!-- -------------------------------------------------------- -->
   <h1 class="p1" style="font-size:25px"><b>Publications:</b></h1>
   <p class="p1"><b>1.</b> Javad Karimi Kerdabadi, <b>Maedeh Haghanimanesh</b>, Arash Karimipour, Davood Toghraie, and Iskander Tlili. "The experimental/numerical investigation of variations in strip speed, water shower pattern and water temperature on high-temperature strip cooling rate in hot strip mill." Journal of Thermal Analysis and Calorimetry (2020): 1-16. DOI: https://doi.org/10.1007/s10973-019-09052-4</p>
-  <a class="button button1"  href="https://haghanimanesh.github.io/ma.haghanimanesh-resume/abstract2.html"> Abstract of Thesis</a>
+  <a class="button button1"  href="https://haghanimanesh.github.io/ma.haghanimanesh-resume/abstract2.html"> Abstract of Article</a>
  
   <p class="p1"><b>2. Maedeh Haghanimanesh</b>, Ehsan Baniasadi, Javad Karimi Kerdabadi. "4E Analysis of the Triple Generation Cycle Using Heat Dissipation Furnace Slag and Biogas Unit." To be submitted. (This article related to the project of advanced thermodynamic course)</p>
   <a class="button button1"  href="https://haghanimanesh.github.io/ma.haghanimanesh-resume/abstract1.html"> Abstract of Article</a>
