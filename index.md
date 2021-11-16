@@ -36,8 +36,8 @@
   
 </head>
 <body>
-  <img src="pic8.png"  width="800" height="50">
-  <img src="pic9.png"  width="300" height="300">
+  <img src="pic7.png"  width="800" height="30">
+  <img src="pic9.png"  width="200" height="200">
   
   <h1 class="p1" style="font-size:30px"><b>Maedeh Haghanimanesh</b></h1>
 <p style="color:red">This is a paragraph.</p>
