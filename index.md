@@ -57,7 +57,7 @@
     <p class="p1">- University of Kashan</p>
     <p class="p1">- Thesis title: Investigation of new cooling and heating methods: Clean room, pool, plane and stadium</p>
     <p class="p1">- Supervisor: Dr. Ghanbar Ali Sheikhzadeh</p>
-  <hr> 
+  
 
 <hr/>
    ------------------------------------------------------------
