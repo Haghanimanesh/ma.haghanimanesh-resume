@@ -23,7 +23,7 @@
 <body>
   <img src="pic3.png" alt="Girl " width="100" height="120">
   
-<h1 style="font-size:50px">Maedeh Haghanimanesh</h1>
+  <h1 style="font-size:50px"><b>Maedeh Haghanimanesh</b></h1>
 <p style="color:red">This is a paragraph.</p>
   
  <h1>The button Element</h1>
