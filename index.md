@@ -39,7 +39,7 @@
   <img src="pic8.png"  width="800" height="50">
   <img src="pic9.png"  width="300" height="300">
   
-  <h1 style="font-size:30px"><b>Maedeh Haghanimaneshtt</b></h1>
+  <h1 class="p1" style="font-size:30px"><b>Maedeh Haghanimanesh</b></h1>
 <p style="color:red">This is a paragraph.</p>
   
  <h1>The button Element</h1>
