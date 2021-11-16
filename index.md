@@ -30,7 +30,7 @@
   cursor: pointer;
 }
 
-.button1 {background-color: #dc143c;} /* Green */
+.button1 {background-color: #0000ff80;} /* Green */
 .button2 {background-color: #008CBA;} /* Blue */
 </style>
   
