@@ -24,7 +24,7 @@
   color: white;
   padding: 1px;
   text-align: center;
-  text-decoration: none;
+  text-decoration: overline;
   display: inline-block;
   font-size: 16px;
   margin: 0px 0px;
@@ -45,8 +45,8 @@
   <p class="p1">- last name : Haghanimanesh</p>
   <p class="p1">- Date of birth : 1986/June/18</p>
   <p class="p1">- location : Esfahan , I.R.Iran</p>
-   <p class="p1">- email : ma.haghanimanesh@eng.ui.ac.ir
- & haghanimanesh.maedeh@gmail.com , I.R.Iran</p>
+   <p class="p1">- Email1 : ma.haghanimanesh@eng.ui.ac.ir </p>
+  <p class="p1">- Email2 : haghanimanesh.maedeh@gmail.com </p>
   <hr/>
   <!-- -------------------------------------------------------- -->
   <h1 class="p1" style="font-size:25px"><b>Education:</b></h1>
