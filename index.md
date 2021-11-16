@@ -47,22 +47,17 @@
 <button type="button" onclick="(resume-fa.md)">Click Me!</button>
   <button class="button button1">Green</button>
 <button class="button button2">Blue</button>
-  
-### Personal informations
-
----
-+ name: Maedeh
-- ### [<button class="button button1">ABS3</button>](resume-fa.md)
-+ last name : Haghanimanesh
-+ Date of birth : 1986/June/18
-+ location : Esfahan , I.R.Iran
-+ ### [<button type="button" onclick="(resume-fa.md)">Abstract2!</button>](resume-fa.md)
-  
-  
+   
  
 <p class="p1">This is a paragraph, shown in the Times New Roman font.</p>
 <p class="p2">This is a paragraph, shown in the Arial font.</p>
 <p class="p3">This is a paragraph, shown in the Lucida Console font.</p>
+  
+  
+  var c = document.getElementById("myCanvas");
+var ctx = c.getContext("2d");
+ctx.font = "30px Arial";
+ctx.fillText("Hello World", 10, 50);
 
 </body>
 </html>
