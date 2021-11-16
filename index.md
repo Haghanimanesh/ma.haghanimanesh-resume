@@ -37,10 +37,13 @@
   
 </head>
 <body>
-   <h1 class="p1" style="font-size:30px"><b>Maedeh Haghanimanesh</b></h1>
+   <h1 class="p1" style="font-size:30px"><b>Maedeh Haghanimanesh Resume</b></h1>
   <img src="pic9.png"  width="200" height="200">
- <h1 class="p1" style="font-size:20px"><b>Personal informations</b></h1>
-  <p class="p1">+ name: Maedeh</p>
+ <h1 class="p1" style="font-size:25px"><b>Personal informations:</b></h1>
+  <p class="p1">- name: Maedeh</p>
+  <p class="p1">- last name : Haghanimanesh</p>
+  <p class="p1">- Date of birth : 1986/June/18</p>
+  <p class="p1">- location : Esfahan , I.R.Iran</p>
   
 
 <button type="button" onclick="(resume-fa.md)">Click Me!</button>
@@ -61,9 +64,7 @@
 ---
 + name: Maedeh
 - ### [<button class="button button1">ABS3</button>](resume-fa.md)
-+ last name : Haghanimanesh
-+ Date of birth : 1986/June/18
-+ location : Esfahan , I.R.Iran
+
 + ### [<button type="button" onclick="(resume-fa.md)">Abstract2!</button>](resume-fa.md)
 
 ### [Abstract](resume-fa.md)
