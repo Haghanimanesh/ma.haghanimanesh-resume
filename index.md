@@ -310,6 +310,13 @@
                <p class="p1">• Conceptual design of water transfer from Babashikh Ali refinery to Isfahan smelter. (2011-2012)</p> 
                   <p class="p1">• Energy audit and effective solution of Yazd alloy steel. (2010-2011)</p> 
                      <p class="p1">• Investigation of New HVAC Systems for Faculty of Modern Science and Technology in Esfahan University. (2009-2010)</p> 
+  ------------------------------------------------------------
+  <h1 class="p1" style="font-size:25px"><b>Professional Experiences:</b></h1>
+  <p class="p1">	Cooperation with companies active in the field of steel industry on a project-oriented basis. (2015 to 2019)</p>
+  <p class="p1">	Fluids department manager at Pouyan Pars CO. (2014 to 2015)</p>
+  <p class="p1">	Energy and Fluids Engineering Specialist at Mobarakeh Steel Engineering Co. (2013 to 2014)</p>
+  <p class="p1">	Fluids Engineering Specialist at SBR International Co. (2011 - 2013)</p>
+  <p class="p1">	HVAC Engineering Specialist at Bina Esfahan Co. (2009- 2011)</p>
              
 </body>
 </html>
