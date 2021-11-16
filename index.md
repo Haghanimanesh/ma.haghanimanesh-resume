@@ -35,8 +35,8 @@
 </style>
   
 </head>
-<body>
-  <img src="pic7.png"  width="800" height="30">
+<body background="pic7.jpg>
+  
   <img src="pic9.png"  width="200" height="200">
   
   <h1 class="p1" style="font-size:30px"><b>Maedeh Haghanimanesh</b></h1>
