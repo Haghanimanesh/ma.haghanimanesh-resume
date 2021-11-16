@@ -45,7 +45,6 @@
   <p class="p1">- Date of birth : 1986/June/18</p>
   <p class="p1">- location : Esfahan , I.R.Iran</p>
   ------------------------------------------------------------
-  ------------------------------------------------------------
   <h1 class="p1" style="font-size:25px"><b>Education:</b></h1>
     <h1 class="p1" style="font-size:15px"><b>Master of Science, Mechanical Engineering-Energy Conversion(2018-2021)</b></h1>
   <p class="p1">- University of Isfahan</p>
@@ -101,7 +100,6 @@
     <p class="p1">- University of Kashan</p>
     <p class="p1">- Thesis title: Investigation of new cooling and heating methods: Clean room, pool, plane and stadium</p>
     <p class="p1">- Supervisor: Dr. Ghanbar Ali Sheikhzadeh</p>
-   ------------------------------------------------------------
    ------------------------------------------------------------
   <h1 class="p1" style="font-size:25px"><b>Publications:</b></h1>
   <p class="p1"><b>1.</b> Javad Karimi Kerdabadi, <b>Maedeh Haghanimanesh</b>, Arash Karimipour, Davood Toghraie, and Iskander Tlili. "The experimental/numerical investigation of variations in strip speed, water shower pattern and water temperature on high-temperature strip cooling rate in hot strip mill." Journal of Thermal Analysis and Calorimetry (2020): 1-16. DOI: https://doi.org/10.1007/s10973-019-09052-4</p>
@@ -277,23 +275,29 @@
   
 </head>
 <body>
-  <p class="p1"><b>5. Maedeh Haghanimanesh</b>, Ehsan Baniasadi. "4E analyses of heat recovery processes from the annealing process of cold rolled steel coils." To be submitted. (This article related to the master of science thesis course)</p>  
-  
+  <p class="p1"><b>5. Maedeh Haghanimanesh</b>, Ehsan Baniasadi. "4E analyses of heat recovery processes from the annealing process of cold rolled steel coils." To be submitted. (This article related to the master of science thesis course)</p> 
+  ------------------------------------------------------------
+  <h1 class="p1" style="font-size:25px"><b>Research Interests:</b></h1>
   <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
+    <th>•	Renewable Energy Technologies</th>
+    <th>•	Thermal Engineering</th> 
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td> 
-    <td>50</td>
+    <td><b>•	Waste Heat Recovery Systems</b></td>
+    <td><b>•	Combustion analysis </b></td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td> 
-    <td>94</td>
+    <td><b>•	Energy Conversion and Sustainable Energy</b></td>
+    <td><b>•	CFD Analysis/ Turbulent flows Modeling</b></td> 
+  </tr>
+    <tr>
+    <td><b>•	Energy Exchangers and Energy Storage Systems</b></td>
+    <td><b>•	Materials science/ Nano science</b></td> 
+  </tr>
+    <tr>
+    <td><b>•	Net Zero Energy Buildings</b></td>
+    <td><b>•	Hydrogen and Fuel Cells Technologies </b></td> 
   </tr>
 </table>
 
