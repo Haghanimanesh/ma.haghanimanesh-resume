@@ -280,24 +280,24 @@
   <h1 class="p1" style="font-size:25px"><b>Research Interests:</b></h1>
   <table style="width:100%">
   <tr>
-    <th>•	Renewable Energy Technologies</th>
-    <th>•	Thermal Engineering</th> 
+    <th class="p1">•	Renewable Energy Technologies</th>
+    <th class="p1">•	Thermal Engineering</th> 
   </tr>
   <tr>
-    <td><b>•	Waste Heat Recovery Systems</b></td>
-    <td><b>•	Combustion analysis </b></td>
+    <td class="p1"><b>•	Waste Heat Recovery Systems</b></td>
+    <td class="p1"><b>•	Combustion analysis </b></td>
   </tr>
   <tr>
-    <td><b>•	Energy Conversion and Sustainable Energy</b></td>
-    <td><b>•	CFD Analysis/ Turbulent flows Modeling</b></td> 
+    <td class="p1"><b>•	Energy Conversion and Sustainable Energy</b></td>
+    <td class="p1"><b>•	CFD Analysis/ Turbulent flows Modeling</b></td> 
   </tr>
     <tr>
-    <td><b>•	Energy Exchangers and Energy Storage Systems</b></td>
-    <td><b>•	Materials science/ Nano science</b></td> 
+    <td class="p1"><b>•	Energy Exchangers and Energy Storage Systems</b></td>
+    <td class="p1"><b>•	Materials science/ Nano science</b></td> 
   </tr>
     <tr>
-    <td><b>•	Net Zero Energy Buildings</b></td>
-    <td><b>•	Hydrogen and Fuel Cells Technologies </b></td> 
+    <td class="p1"><b>•	Net Zero Energy Buildings</b></td>
+    <td class="p1"><b>•	Hydrogen and Fuel Cells Technologies </b></td> 
   </tr>
 </table>
 
