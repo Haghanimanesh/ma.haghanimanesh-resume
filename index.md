@@ -36,7 +36,7 @@
   
 </head>
 <body>
-  <img src="pic3.png" alt="Girl " width="800" height="50">
+  <img src="pic4.png"  width="800" height="100">
   
   <h1 style="font-size:50px"><b>Maedeh Haghanimanesh</b></h1>
 <p style="color:red">This is a paragraph.</p>
