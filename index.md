@@ -273,17 +273,12 @@
 .button1 {background-color: #4CAF50;} /* Green */
 .button2 {background-color: #008CBA;} /* Blue */
 </style>
- 
-  table, th, td {
-    border: 1px solid black;
-} 
+  
   
 </head>
 <body>
   <p class="p1"><b>5. Maedeh Haghanimanesh</b>, Ehsan Baniasadi. "4E analyses of heat recovery processes from the annealing process of cold rolled steel coils." To be submitted. (This article related to the master of science thesis course)</p>  
   
-  
- 
   <table style="width:100%">
   <tr>
     <th>Firstname</th>
