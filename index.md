@@ -39,17 +39,17 @@
    <h1 class="p1" style="font-size:30px"><b>Maedeh Haghanimanesh Resume</b></h1>
   <img src="pic9.png"  width="200" height="200">
  <h1 class="p1" style="font-size:25px"><b>Personal informations:</b></h1>
-  <p class="p1" style="font-size:15px>- name: Maedeh</p>
-  <p class="p1" style="font-size:15px>- last name : Haghanimanesh</p>
-  <p class="p1" style="font-size:15px>- Date of birth : 1986/June/18</p>
-  <p class="p1" style="font-size:15px>- location : Esfahan , I.R.Iran</p>
+  <p class="p1">- name: Maedeh</p>
+  <p class="p1">- last name : Haghanimanesh</p>
+  <p class="p1">- Date of birth : 1986/June/18</p>
+  <p class="p1">- location : Esfahan , I.R.Iran</p>
   
-  <h1 class="p1" style="font-size:25px"><b>Education:</b></h1>
-  <p class="p1" style="font-size:15px><b>- Master of Science, Mechanical Engineering-Energy Conversion(2018-2021)</b></p>
-  <p class="p1" style="font-size:15px>- University of Isfahan</p>
-  <p class="p1" style="font-size:15px>- Thesis title: Exergy-Economic and Exergy-Environmental analysis of heat recovery processes from the annealing process of cold rolled steel coils.</p>
-  <p class="p1" style="font-size:15px>- Supervisor: Dr. Ehsan Baniasadi</p>
-  <p class="p1" style="font-size:15px>- GPA: 18.11/20</p>
+  <h1 class="p1"><b>Education:</b></h1>
+  <p class="p1"><b>- Master of Science, Mechanical Engineering-Energy Conversion(2018-2021)</b></p>
+  <p class="p1">- University of Isfahan</p>
+  <p class="p1">- Thesis title: Exergy-Economic and Exergy-Environmental analysis of heat recovery processes from the annealing process of cold rolled steel coils.</p>
+  <p class="p1">- Supervisor: Dr. Ehsan Baniasadi</p>
+  <p class="p1">- GPA: 18.11/20</p>
 
                        
   - ### [<button class="button button1">ABS3</button>](resume-fa.md)                     
