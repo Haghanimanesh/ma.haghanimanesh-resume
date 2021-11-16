@@ -21,10 +21,10 @@
 .button {
   
   border: 3px solid white;
-  color: white;
+  color: solid white;
   padding: 1px;
   text-align: center;
-  text-decoration: overline;
+  text-decoration: none;
   display: inline-block;
   font-size: 16px;
   margin: 0px 0px;
@@ -41,10 +41,10 @@
   <img src="pic9.png"  width="200" height="200">
   <hr/>
  <h1 class="p1" style="font-size:25px"><b>Personal informations:</b></h1>
-  <p class="p1">- name: Maedeh</p>
-  <p class="p1">- last name : Haghanimanesh</p>
+  <p class="p1">- Name: Maedeh</p>
+  <p class="p1">- Last name : Haghanimanesh</p>
   <p class="p1">- Date of birth : 1986/June/18</p>
-  <p class="p1">- location : Esfahan , I.R.Iran</p>
+  <p class="p1">- Location : Esfahan , IRAN</p>
    <p class="p1">- Email1 : ma.haghanimanesh@eng.ui.ac.ir </p>
   <p class="p1">- Email2 : haghanimanesh.maedeh@gmail.com </p>
   <hr/>
