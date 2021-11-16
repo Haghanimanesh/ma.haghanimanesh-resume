@@ -103,7 +103,7 @@
    ------------------------------------------------------------
   <h1 class="p1" style="font-size:25px"><b>Publications:</b></h1>
   <p class="p1"><b>1.</b> Javad Karimi Kerdabadi, <b>Maedeh Haghanimanesh</b>, Arash Karimipour, Davood Toghraie, and Iskander Tlili. "The experimental/numerical investigation of variations in strip speed, water shower pattern and water temperature on high-temperature strip cooling rate in hot strip mill." Journal of Thermal Analysis and Calorimetry (2020): 1-16. DOI: https://doi.org/10.1007/s10973-019-09052-4</p>
-  <a class="button is_danger"  href="https://haghanimanesh.github.io/ma.haghanimanesh-resume/abstract1.html"> کلیک کن</a>
+  <a class="button button1"  href="https://haghanimanesh.github.io/ma.haghanimanesh-resume/abstract1.html"> کلیک کن</a>
   </body>
 </html>
   
