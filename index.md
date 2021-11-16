@@ -284,32 +284,32 @@
     <td class="p1">•	Thermal Engineering</td> 
   </tr>
   <tr>
-    <td class="p1"><b>•	Waste Heat Recovery Systems</b></td>
-    <td class="p1"><b>•	Combustion analysis </b></td>
+    <td class="p1">•	Waste Heat Recovery Systems</td>
+    <td class="p1">•	Combustion analysis </td>
   </tr>
   <tr>
-    <td class="p1"><b>•	Energy Conversion and Sustainable Energy</b></td>
-    <td class="p1"><b>•	CFD Analysis/ Turbulent flows Modeling</b></td> 
+    <td class="p1">•	Energy Conversion and Sustainable Energy</td>
+    <td class="p1">•	CFD Analysis/ Turbulent flows Modeling</td> 
   </tr>
     <tr>
-    <td class="p1"><b>•	Energy Exchangers and Energy Storage Systems</b></td>
-    <td class="p1"><b>•	Materials science/ Nano science</b></td> 
+    <td class="p1">•	Energy Exchangers and Energy Storage Systems</td>
+    <td class="p1">•	Materials science/ Nano science</td> 
   </tr>
     <tr>
-    <td class="p1"><b>•	Net Zero Energy Buildings</b></td>
-    <td class="p1"><b>•	Hydrogen and Fuel Cells Technologies </b></td> 
+    <td class="p1">•	Net Zero Energy Buildings</td>
+    <td class="p1">•	Hydrogen and Fuel Cells Technologies </td> 
   </tr>
 </table>
 ------------------------------------------------------------
   <h1 class="p1" style="font-size:25px"><b>Research Experiences:</b></h1>
-  <p class="p1"><b>• Research Assistant (Investigation of novel dust control technologies for raw material plant & Thermal energy recovery in annealing process of cold rolling plant)-(2019 up to now)</p> 
-    <p class="p1"><b>• Numerical investigation of variations in strip speed, water shower pattern and water temperature on high-temperature strip cooling rate in hot strip mill.-(2016-2018)</p> 
-      <p class="p1"><b>• Design and coding of wet cooling tower.-(2014-2015)</p> 
-         <p class="p1"><b>• Design and Optimization of Air Conditioning Control Room of Hot Rolling Building of Isfahan Mubarak Steel Company.-(2013-2014)</p> 
-            <p class="p1"><b>• Conceptual design of treatment and transfer of wastewater of Zarrin Shahr to Isfahan Steel Company for irrigation purposes.-(2012-2013)</p> 
-               <p class="p1"><b>• Conceptual design of water transfer from Babashikh Ali refinery to Isfahan smelter.-(2011-2012)</p> 
-                  <p class="p1"><b>• Energy audit and effective solution of Yazd alloy steel.-(2010-2011)</p> 
-                     <p class="p1"><b>• Investigation of New HVAC Systems for Faculty of Modern Science and Technology in Esfahan University.-(2009 - 2010)</p> 
+  <p class="p1"><b>• Research Assistant:Investigation of novel dust control technologies for raw material plant & Thermal energy recovery in annealing process of cold rolling plant. (2019 up to now)</p> 
+    <p class="p1"><b>• Numerical investigation of variations in strip speed, water shower pattern and water temperature on high-temperature strip cooling rate in hot strip mill.(2016-2018)</p> 
+      <p class="p1"><b>• Design and coding of wet cooling tower. (2014-2015)</p> 
+         <p class="p1"><b>• Design and Optimization of Air Conditioning Control Room of Hot Rolling Building of Isfahan Mubarak Steel Company. (2013-2014)</p> 
+            <p class="p1"><b>• Conceptual design of treatment and transfer of wastewater of Zarrin Shahr to Isfahan Steel Company for irrigation purposes. (2012-2013)</p> 
+               <p class="p1"><b>• Conceptual design of water transfer from Babashikh Ali refinery to Isfahan smelter. (2011-2012)</p> 
+                  <p class="p1"><b>• Energy audit and effective solution of Yazd alloy steel. (2010-2011)</p> 
+                     <p class="p1"><b>• Investigation of New HVAC Systems for Faculty of Modern Science and Technology in Esfahan University. (2009 - 2010)</p> 
              
 </body>
 </html>
