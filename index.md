@@ -141,7 +141,7 @@
   <tr>
     <td class="p1">•	EES(4 years)</td>
     <td class="p1">•	Poly Sun(1 year)</td> 
-    <td class="p1">Microsoft Offices(20 years)</td>
+    <td class="p1">•	Microsoft Offices(20 years)</td>
   </tr>
   <tr>
     <td class="p1">•	TRNSYS(2 years)</td>
