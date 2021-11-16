@@ -60,7 +60,7 @@
   
 
 <hr/>
-   ------------------------------------------------------------
+  /*------------------------------------------------------------*/
   <h1 class="p1" style="font-size:25px"><b>Publications:</b></h1>
   <p class="p1"><b>1.</b> Javad Karimi Kerdabadi, <b>Maedeh Haghanimanesh</b>, Arash Karimipour, Davood Toghraie, and Iskander Tlili. "The experimental/numerical investigation of variations in strip speed, water shower pattern and water temperature on high-temperature strip cooling rate in hot strip mill." Journal of Thermal Analysis and Calorimetry (2020): 1-16. DOI: https://doi.org/10.1007/s10973-019-09052-4</p>
   <a class="button button1"  href="https://haghanimanesh.github.io/ma.haghanimanesh-resume/abstract1.html"> Abstract</a>
@@ -75,7 +75,8 @@
   <a class="button button1"  href="https://haghanimanesh.github.io/ma.haghanimanesh-resume/abstract1.html"> کلیک ن</a>
  
   <p class="p1"><b>5. Maedeh Haghanimanesh</b>, Ehsan Baniasadi. "4E analyses of heat recovery processes from the annealing process of cold rolled steel coils." To be submitted. (This article related to the master of science thesis course)</p> 
-  ------------------------------------------------------------
+  <hr/>
+  /*------------------------------------------------------------*/
   <h1 class="p1" style="font-size:25px"><b>Research Interests:</b></h1>
   <table style="width:100%">
   <tr>
@@ -99,7 +100,8 @@
     <td class="p1">•	Hydrogen and Fuel Cells Technologies </td> 
   </tr>
 </table>
-------------------------------------------------------------
+  <hr/>
+/*------------------------------------------------------------*/
   <h1 class="p1" style="font-size:25px"><b>Research Experiences:</b></h1>
   <p class="p1">• Research Assistant:Investigation of novel dust control technologies for raw material plant & Thermal energy recovery in annealing process of cold rolling plant. (2019 up to now)</p> 
     <p class="p1">• Numerical investigation of variations in strip speed, water shower pattern and water temperature on high-temperature strip cooling rate in hot strip mill. (2016-2018)</p> 
@@ -109,19 +111,22 @@
                <p class="p1">• Conceptual design of water transfer from Babashikh Ali refinery to Isfahan smelter. (2011-2012)</p> 
                   <p class="p1">• Energy audit and effective solution of Yazd alloy steel. (2010-2011)</p> 
                      <p class="p1">• Investigation of New HVAC Systems for Faculty of Modern Science and Technology in Esfahan University. (2009-2010)</p> 
-  ------------------------------------------------------------
+  <hr/>
+  /*------------------------------------------------------------*/
   <h1 class="p1" style="font-size:25px"><b>Professional Experiences:</b></h1>
   <p class="p1">	Cooperation with companies active in the field of steel industry on a project-oriented basis. (2015 to 2019)</p>
   <p class="p1">	Fluids department manager at Pouyan Pars CO. (2014 to 2015)</p>
   <p class="p1">	Energy and Fluids Engineering Specialist at Engineering Department of Mobarakeh Steel Company. (2013 to 2014)</p>
   <p class="p1">	Fluids Engineering Specialist at SBR International Co. (2011 - 2013)</p>
   <p class="p1">	HVAC Engineering Specialist at Bina Esfahan Co. (2009- 2011)</p>
-   ------------------------------------------------------------
+  <hr/>
+   /*------------------------------------------------------------*/
   <h1 class="p1" style="font-size:25px"><b>Specialized training courses:</b></h1>
   <p class="p1">•	Preliminary and advanced zero energy building design international workshop with certificate- 2021,(Organizers: University of Isfahan, Energy Research Institute, University of Isfahan, Switzerland Vela Solaris AG Company, Arshidz Consulting Engineers Company)</p>
   <p class="p1">•	Design Builder and Poly Sun software training international workshop with certificate- 2021,(Organizers: University of Isfahan, Energy Research Institute, University of Isfahan, Switzerland Vela Solaris AG Company, Arshidz Consulting Engineers Company)</p>
   <p class="p1">•	Firefighting Course with certificate-2013</p>
-  ------------------------------------------------------------
+  <hr/>
+  /*------------------------------------------------------------*/
   <h1 class="p1" style="font-size:25px"><b>Technical Skills and Software:</b></h1>
   <table style="width:100%">
   <tr>
@@ -150,7 +155,8 @@
     <td>•	PIPENET(15 years)</td>
   </tr>
 </table>
-   ------------------------------------------------------------
+  <hr/>
+   /*------------------------------------------------------------*/
   <h1 class="p1" style="font-size:25px"><b>Language:</b></h1>
   <table style="width:100%">
   <tr>
@@ -162,7 +168,8 @@
     <td>IELTS: 7</td> 
   </tr>
 </table>
-  ------------------------------------------------------------
+  <hr/>
+  /*------------------------------------------------------------*/
   <h1 class="p1" style="font-size:25px"><b>Honors and Awards:</b></h1>
   <p class="p1">•	Top student in Master of Mechanical Engineering-Energy Conversion at the University of Isfahan (GPA: 18.11/20)-2021</p>
   <p class="p1">•	Fifth place in glider competitions of Amir Kabir University of Tehran-2007</p>
