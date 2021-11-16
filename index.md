@@ -21,7 +21,7 @@
 .button {
   border: none;
   color: white;
-  padding: 15px 15px;
+  padding: 15px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -58,7 +58,7 @@
     <p class="p1">- Thesis title: Investigation of new cooling and heating methods: Clean room, pool, plane and stadium</p>
     <p class="p1">- Supervisor: Dr. Ghanbar Ali Sheikhzadeh</p>
   <hr> <p>
-    Training hr tag 
+     
 </p>
 <hr/>
    ------------------------------------------------------------
