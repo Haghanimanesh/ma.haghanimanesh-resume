@@ -308,8 +308,8 @@
          <p class="p1"><b>• Design and Optimization of Air Conditioning Control Room of Hot Rolling Building of Isfahan Mubarak Steel Company. 2013-2014</p> 
             <p class="p1"><b>• Conceptual design of treatment and transfer of wastewater of Zarrin Shahr to Isfahan Steel Company for irrigation purposes. 2012-2013</p> 
                <p class="p1"><b>• Conceptual design of water transfer from Babashikh Ali refinery to Isfahan smelter. 2011-2012</p> 
-                  <p class="p1"><b>• Energy audit and effective solution of Yazd alloy steel. 2010-2011</p> 
-                     <p class="p1"><b>• Investigation of New HVAC Systems for Faculty of Modern Science and Technology in Esfahan University. 2009 - 2010</p> 
+                  <p class="p1"><b>• Energy audit and effective solution of Yazd alloy steel (2010-2011).</p> 
+                     <p class="p1"><b>• Investigation of New HVAC Systems for Faculty of Modern Science and Technology in Esfahan University (2009 - 2010).</p> 
              
 </body>
 </html>
