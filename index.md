@@ -132,29 +132,29 @@
   <h1 class="p1" style="font-size:25px"><b>Technical Skills and Software:</b></h1>
   <table style="width:100%">
   <tr>
-    <td>•	ANSYS-FLUENT(7 years)</td>
-    <td>•	Aspen Plus(6 monthes)</td> 
-    <td>•	Tec plot(4 years)</td>
+    <td class="p1">•	ANSYS-FLUENT(7 years)</td>
+    <td class="p1">•	Aspen Plus(6 monthes)</td> 
+    <td class="p1">•	Tec plot(4 years)</td>
   </tr>
   <tr>
-    <td>•	EES(4 years)</td>
-    <td>•	Poly Sun(1 year)</td> 
-    <td>Microsoft Offices(20 years)</td>
+    <td class="p1">•	EES(4 years)</td>
+    <td class="p1">•	Poly Sun(1 year)</td> 
+    <td class="p1">Microsoft Offices(20 years)</td>
   </tr>
   <tr>
-    <td>•	TRNSYS(2 years)</td>
-    <td>•	Design Builder(1 year)</td> 
-    <td>•	Revit MEP(1 year)</td>
+    <td class="p1">•	TRNSYS(2 years)</td>
+    <td class="p1">•	Design Builder(1 year)</td> 
+    <td class="p1">•	Revit MEP(1 year)</td>
   </tr>
     <tr>
-    <td>•	MATLAB(10 years)</td>
-    <td>•	CARRIER(15 years)</td> 
-    <td>•	PIPE FLOW EXPERT(10 years)</td>
+    <td class="p1">•	MATLAB(10 years)</td>
+    <td class="p1">•	CARRIER(15 years)</td> 
+    <td class="p1">•	PIPE FLOW EXPERT(10 years)</td>
   </tr>
     <tr>
-    <td>•	C++(8 years)</td>
-    <td>•	Fortran(4 years)</td> 
-    <td>•	PIPENET(15 years)</td>
+    <td class="p1">•	C++(8 years)</td>
+    <td class="p1">•	Fortran(4 years)</td> 
+    <td class="p1">•	PIPENET(15 years)</td>
   </tr>
 </table>
   <hr/>
@@ -162,12 +162,12 @@
   <h1 class="p1" style="font-size:25px"><b>Language:</b></h1>
   <table style="width:100%">
   <tr>
-    <td>Persian</td>
-    <td>Mother language</td> 
+    <td class="p1">Persian</td>
+    <td class="p1">Mother language</td> 
   </tr>
   <tr>
-    <td>English</td>
-    <td>IELTS: 7</td> 
+    <td class="p1">English</td>
+    <td class="p1">IELTS: 7</td> 
   </tr>
 </table>
   <hr/>
