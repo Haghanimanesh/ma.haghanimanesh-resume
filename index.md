@@ -317,6 +317,42 @@
   <p class="p1">	Energy and Fluids Engineering Specialist at Mobarakeh Steel Engineering Co. (2013 to 2014)</p>
   <p class="p1">	Fluids Engineering Specialist at SBR International Co. (2011 - 2013)</p>
   <p class="p1">	HVAC Engineering Specialist at Bina Esfahan Co. (2009- 2011)</p>
+   ------------------------------------------------------------
+  <h1 class="p1" style="font-size:25px"><b>Specialized training courses:</b></h1>
+  <p class="p1">•	Preliminary and advanced zero energy building design international workshop with certificate- 2021,(Organizers: University of Isfahan, Energy Research Institute, University of Isfahan, Switzerland Vela Solaris AG Company, Arshidz Consulting Engineers Company)</p>
+  <p class="p1">•	Design Builder and Poly Sun software training international workshop with certificate- 2021,(Organizers: University of Isfahan, Energy Research Institute, University of Isfahan, Switzerland Vela Solaris AG Company, Arshidz Consulting Engineers Company)</p>
+  <p class="p1">•	Firefighting Course with certificate-2013</p>
+  ------------------------------------------------------------
+  <h1 class="p1" style="font-size:25px"><b>Technical Skills and Software:</b></h1>
+  <table style="width:100%">
+  <tr>
+    <td>•	ANSYS-FLUENT(7 years)</td>
+    <td>•	Aspen Plus(6 monthes)</td> 
+    <td>•	Tec plot(4 years)</td>
+  </tr>
+  <tr>
+    <td>•	EES(4 years)</td>
+    <td>•	Poly Sun(1 year)</td> 
+    <td>Microsoft Offices(20 years)</td>
+  </tr>
+  <tr>
+    <td>•	TRNSYS(2 years)</td>
+    <td>•	Design Builder(1 year)</td> 
+    <td>•	Revit MEP(1 year)</td>
+  </tr>
+    <tr>
+    <td>•	MATLAB(10 years)</td>
+    <td>•	CARRIER(15 years)</td> 
+    <td>•	PIPE FLOW EXPERT(10 years)</td>
+  </tr>
+    <tr>
+    <td>•	C++(8 years)</td>
+    <td>•	Fortran(4 years)</td> 
+    <td>•	PIPENET(15 years)</td>
+  </tr>
+</table>
+
+ 
              
 </body>
 </html>
