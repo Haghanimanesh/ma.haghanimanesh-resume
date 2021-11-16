@@ -86,11 +86,11 @@
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  margin: 4px 2px;
+  margin: 2px 2px;
   cursor: pointer;
 }
 
-.button1 {background-color: #4CAF50;} /* Green */
+.button1 {background-color: ##63e0b7;} /* Green */
 .button2 {background-color: #008CBA;} /* Blue */
 </style>
   
