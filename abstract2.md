@@ -39,8 +39,7 @@
   
  
  
-  <p class="p1" align="justify">Abstract
-Hot-rolled strips are cooled on the run-out table to achieve the customer-required mechanical properties. Cooling reduces 
+  <p class="p1" align="justify">Hot-rolled strips are cooled on the run-out table to achieve the customer-required mechanical properties. Cooling reduces 
 the oxidation, which can assist the coiling operation. The ability to obtain a range of mechanical properties from a single steel grade reduces the use of alloying elements (elements added to a metal or an alloy which are incorporated in the 
 metallic structure and change in the properties of the basic alloy) and the size of the slab inventories. So in this paper, the 
 high-temperature steel strip cooling pattern with the temperature of 870 °C and reaching the temperature of 630 °C using 
