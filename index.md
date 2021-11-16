@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <link rel="stylesheet" href="CSS/app.css">
+  <link rel="stylesheet" href="CSS/app2.css">
   <style>
 .p1 {
   font-family: "Times New Roman", Times, serif;
