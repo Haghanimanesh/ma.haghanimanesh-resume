@@ -19,14 +19,15 @@
   
   <style>
 .button {
-  border: none;
+  
+  border: 1px solid white;
   color: white;
-  padding: 15px;
+  padding: 2px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  margin: 2px 2px;
+  margin: 0px 0px;
   cursor: pointer;
 }
 
@@ -44,7 +45,7 @@
   <p class="p1">- last name : Haghanimanesh</p>
   <p class="p1">- Date of birth : 1986/June/18</p>
   <p class="p1">- location : Esfahan , I.R.Iran</p>
-  </hr>
+  <hr/>
   <!-- -------------------------------------------------------- -->
   <h1 class="p1" style="font-size:25px"><b>Education:</b></h1>
     <h1 class="p1" style="font-size:15px"><b>Master of Science, Mechanical Engineering-Energy Conversion(2018-2021)</b></h1>
