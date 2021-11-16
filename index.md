@@ -56,7 +56,7 @@
 </html>
 
                        
-  - ### [<button class="button button1">ABS3</button>](resume-fa.md)                     
+  - ### [<button class="button button1">Abstract of Thesis</button>](resume-fa.md)                     
                        
          
    <html lang="en">
@@ -106,7 +106,7 @@
   </body>
 </html>
   
-  - ### [<button class="button button1">ABS3</button>](resume-fa.md) 
+  - ### [<button class="button button1">Abstract</button>](resume-fa.md) 
   
   <html lang="en">
 <head>
@@ -149,7 +149,7 @@
   </body>
 </html>
   
-  - ### [<button class="button button1">ABS3</button>](resume-fa.md) 
+  - ### [<button class="button button1">Abstract</button>](resume-fa.md) 
   
   <html lang="en">
 <head>
@@ -351,9 +351,23 @@
     <td>•	PIPENET(15 years)</td>
   </tr>
 </table>
-
- 
-             
+   ------------------------------------------------------------
+  <h1 class="p1" style="font-size:25px"><b>Language:</b></h1>
+  <table style="width:100%">
+  <tr>
+    <td>Persian</td>
+    <td>Mother language</td> 
+  </tr>
+  <tr>
+    <td>English</td>
+    <td>IELTS: 7</td> 
+  </tr>
+</table>
+  ------------------------------------------------------------
+  <h1 class="p1" style="font-size:25px"><b>Honors and Awards:</b></h1>
+  <p class="p1">•	Top student in Master of Mechanical Engineering-Energy Conversion at the University of Isfahan (GPA: 18.11/20)-2021</p>
+  <p class="p1">•	Fifth place in glider competitions of Amir Kabir University of Tehran-2007</p>
+  <p class="p1">•	Isfahan Mathematics Festival Award for Research Across Borders of Geometry-2003</p>          
 </body>
 </html>
 
