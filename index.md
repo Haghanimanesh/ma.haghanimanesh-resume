@@ -95,14 +95,10 @@
   
 </head>
 <body>          
-  <button type="button" onclick="(resume-fa.md)">Click Me!</button>
-  <button class="button button1">Green</button>
-<button class="button button2">Blue</button>
-   
- 
-<p class="p1">This is a paragraph, shown in the Times New Roman font.</p>
-<p class="p2">This is a paragraph, shown in the Arial font.</p>
-<p class="p3">This is a paragraph, shown in the Lucida Console font.</p>           
+  <h1 class="p1" style="font-size:15px"><b>Bachelor of Science, Mechanical Engineering-Thermo-Fluid Design(2005-2009)</b></h1>
+    <p class="p1">- University of Kashan</p>
+    <p class="p2">- Thesis title: Investigation of new cooling and heating methods: Clean room, pool, plane and stadium</p>
+    <p class="p3">- Supervisor: Dr. Ghanbar Ali Sheikhzadeh</p>           
              
              
 </body>
