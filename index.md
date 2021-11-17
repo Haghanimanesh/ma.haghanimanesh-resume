@@ -38,7 +38,7 @@
 </head>
 <body>
    <h1 class="p1" style="font-size:30px"><b>Maedeh Haghanimanesh Resume</b></h1>
-  <img src="pic9.png"  width="200" height="200">
+  <img src="CROPPED-20171103_190919.jpg"  width="200" height="200">
   <hr/>
  <h1 class="p1" style="font-size:25px"><b>Personal informations:</b></h1>
   <p class="p1">- Name: Maedeh</p>
