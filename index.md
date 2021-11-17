@@ -78,7 +78,7 @@
   <p class="p1"><b>4. Maedeh Haghanimanesh</b>, Ehsan Baniasadi. "Thermal Modeling of Heating, Cooling and Solar Power of a Zero Energy Building with TRNSYS and TRNBUILD Software." To be submitted. (This article related to the project of Advanced solar energy course)</p>
   <a class="button button1"  href="https://haghanimanesh.github.io/ma.haghanimanesh-resume/abstract4.html"><b> Abstract of Article</b></a>
  
-  <p class="p1"><b>5. Maedeh Haghanimanesh</b>, Ehsan Baniasadi. "4E analyses of heat recovery processes from the annealing process of cold rolled steel coils." To be submitted. (This article related to the master of science thesis course)</p> 
+  <p class="p1"><b>5. Maedeh Haghanimanesh</b>, Ehsan Baniasadi. "4E analyses of heat recovery processes from the annealing process of cold rolled steel coils." In preparation. (This article related to the master of science thesis course)</p> 
   <hr/>
   <!-- -------------------------------------------------------- -->
   <h1 class="p1" style="font-size:25px"><b>Research Interests:</b></h1>
