@@ -103,6 +103,10 @@
     <td class="p1">•	Net Zero Energy Buildings</td>
     <td class="p1">•	Hydrogen and Fuel Cells Technologies </td> 
   </tr>
+    <tr>
+    <td class="p1">•	Solar systems/photovoltaics</td>
+    <td class="p1"> </td> 
+  </tr>
 </table>
   <hr/>
  <!-- -------------------------------------------------------- -->
