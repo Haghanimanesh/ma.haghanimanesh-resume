@@ -180,7 +180,7 @@
   </tr>
   <tr>
     <td class="p1">English</td>
-    <td class="p1">IELTS: Overall= 7, (Listening= 7.5, Reading= 7, Writing= 6, Speaking= 6.5) </td> 
+    <td class="p1">IELTS: Overall= 7 </td> 
   </tr>
 </table>
   <hr/>
