@@ -126,11 +126,32 @@
                <p class="p1">•	Feasibility study and basic design of water treatment and transfer it from Zarrinshahr city to Isfahan Steel Company</p> 
                   <p class="p1">•	Feasibility study, basic design and economic justification of wastewater treatment ant it’s conveying for irrigation purposes</p> 
                      <p class="p1">•	Evaluation and Audit of Energy of Yazd Alloy Steel Plant and Mobarakeh Steel Complex and giving necessary solutions</p> 
-  <p class="p1">•	Conceptual design of waste and sewage collection sites for compost and electricity generation</p> 
+                        <p class="p1">•	Conceptual design of waste and sewage collection sites for compost and electricity generation</p> 
+  <hr/>
+  <!-- -------------------------------------------------------- -->
+  <!-- -------------------------------------------------------- -->
+  <h1 class="p1" style="font-size:25px"><b>Technical Reports and Projects:</b></h1>
+   <p class="p1">I have done more than 40 technical projects and prepared more than 30 technical reports so that some of them are listed below: </p>
+  <p class="p1">•	HVAC design of Sepehr Towers </p> 
+    <p class="p1">•	HVAC design of Imam Reza, Imam Kazem and also Dr. Chamran hospitals</p> 
+      <p class="p1">•	Design Criteria for Firefighting system, HVAC and Industrial Piping for Gol-Gohar Pelletizing Plant</p> 
+         <p class="p1">•	•	Firefighting system design for electricity tunnel of Cold Rolling Mill and 400 kV substation in Saba Steel Making Plant</p> 
+            <p class="p1">•	Conceptual design of Compressor Room in Gol-Gohar Plant</p> 
+               <p class="p1">•	Design of Process Flow Diagram (PFD) and Piping and Instrument Diagram (P&ID) for Make-up Water and Cooling Systems in Steel Making Plants according to their Production capacity</p> 
+                  <p class="p1">•	Providing reports of feasibility study and economic justification for conveying water emergency pipelines</p> 
+                     <p class="p1">•	Conceptual design of water supply with reverse osmosis methods</p> 
+                       <p class="p1">•	Preparation of technical reports in order to firefighting design by carbon dioxide gas</p>
+                         <p class="p1">•	Providing technical report for design of process lines in Esfahan Steel Company’s Steam Power Plant (ammonia pipe lines with dosing pump)</p> 
+                           <p class="p1">•	Preparing technical reports for evaluating the energy of buildings</p> 
+                             <p class="p1">•	Preparing technical and calculation reports according to ASHRAE standard for HVAC and facilities design of the Faculty of Modern Sciences and Technologies in university of Isfahan (for some especial laboratories and spaces relating to solar, wind and ocean wave energy)</p> 
+                               <p class="p1">•	Preparing technical and calculation reports according to ASHRAE standard for HVAC design of Esfahan Steel Company’s Museum</p> 
+                                 <p class="p1">•	Preparation of technical and economic reports related to tender documents in many industrial projects</p>
+                                   <p class="p1">•	Preparation of HVAC, firefighting and piping criteria reports by using ASHRAE, ASME, DIN and other relating standards</p> 
   <hr/>
   <!-- -------------------------------------------------------- -->
   <h1 class="p1" style="font-size:25px"><b>Professional Experiences:</b></h1>
   <p class="p1">•	Cooperation with companies active in the field of steel industry on a project-oriented basis. (2015 to 2019)</p>
+  <p class="p1">•	Member of Isfahan Building Engineering Organization with Employment license  No. 20-400-01660 (2016 to 2021)</p>
   <p class="p1">•	Fluids department manager at Pouyan Pars CO. (2014 to 2015)</p>
   <p class="p1">•	Energy and Fluids Engineering Specialist at Engineering Department of Mobarakeh Steel Company. (2013 to 2014)</p>
   <p class="p1">•	Fluids Engineering Specialist at SBR International Co. (2011 - 2013)</p>
