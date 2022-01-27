@@ -118,14 +118,15 @@
   <hr/>
  <!-- -------------------------------------------------------- -->
   <h1 class="p1" style="font-size:25px"><b>Research Experiences:</b></h1>
-  <p class="p1">• Research Assistant:Investigation of novel dust control technologies for raw material plant & Thermal energy recovery in annealing process of cold rolling plant. (2019 up to now)</p> 
-    <p class="p1">• Numerical investigation of variations in strip speed, water shower pattern and water temperature on high-temperature strip cooling rate in hot strip mill. (2016-2018)</p> 
-      <p class="p1">• Design and coding of wet cooling tower. (2014-2015)</p> 
-         <p class="p1">• Design and Optimization of Air Conditioning Control Room of Hot Rolling Building of Mobarakeh Steel Complex. (2013-2014)</p> 
-            <p class="p1">• Conceptual design of treatment and transfer of wastewater of Zarrin Shahr to Isfahan Steel Company for irrigation purposes. (2012-2013)</p> 
-               <p class="p1">• Conceptual design of water transfer from Babashikh Ali refinery to Isfahan smelter. (2011-2012)</p> 
-                  <p class="p1">• Energy audit and effective solution of Yazd alloy steel. (2010-2011)</p> 
-                     <p class="p1">• Investigation of New HVAC Systems for Faculty of Modern Science and Technology in Esfahan University. (2009-2010)</p> 
+  <p class="p1">• Research Assistant in project: " Investigation of novel technologies to dust control for Pelletizing plant and its material handling system in Mobarakeh Steel Complex " </p> 
+    <p class="p1">•	Research Assistant in project: " Thermal Energy Recovery in Annealing Process at Cold Rolling Plant "</p> 
+      <p class="p1">•	Conceptual design of the utilities and HVAC design of the Faculty of Modern Sciences and Technologies</p> 
+         <p class="p1">•	Design and coding of wet cooling towers</p> 
+            <p class="p1">•	Thermal Modeling of Steel Slabs with a temperature of about 1000 °C to calculate and optimization of the Control Room utilities in the Continues Casting Machines of Mobarakeh Steel complex</p> 
+               <p class="p1">•	Feasibility study and basic design of water treatment and transfer it from Zarrinshahr city to Isfahan Steel Company</p> 
+                  <p class="p1">•	Feasibility study, basic design and economic justification of wastewater treatment ant it’s conveying for irrigation purposes</p> 
+                     <p class="p1">•	Evaluation and Audit of Energy of Yazd Alloy Steel Plant and Mobarakeh Steel Complex and giving necessary solutions</p> 
+  <p class="p1">•	Conceptual design of waste and sewage collection sites for compost and electricity generation</p> 
   <hr/>
   <!-- -------------------------------------------------------- -->
   <h1 class="p1" style="font-size:25px"><b>Professional Experiences:</b></h1>
