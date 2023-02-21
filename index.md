@@ -69,7 +69,7 @@
   <p class="p1"><b>1.</b> Javad Karimi Kerdabadi, <b>Maedeh Haghanimanesh</b>, Arash Karimipour, Davood Toghraie, and Iskander Tlili. "The experimental/numerical investigation of variations in strip speed, water shower pattern and water temperature on high-temperature strip cooling rate in hot strip mill." Journal of Thermal Analysis and Calorimetry (2020): 1-16. DOI: https://doi.org/10.1007/s10973-019-09052-4</p>
   <a class="button button1"  href="https://haghanimanesh.github.io/ma.haghanimanesh-resume/abstract2.html"><b> Abstract of Article</b></a>
  
-  <p class="p1"><b>2. Maedeh Haghanimanesh</b>, Ehsan Baniasadi, Javad Karimi Kerdabadi. "4E Analysis of the Triple Generation Cycle Using Heat Dissipation Furnace Slag and Biogas Unit." To be submitted. (This article related to the project of advanced thermodynamic course)</p>
+  <p class="p1"><b>2. Maedeh Haghanimanesh</b>,Baniasadi, E., Kerdabadi, J. K., & Yu, X. (2022). Exergoeconomic analysis of a novel trigeneration cycle based on steel slag heat recovery and biogas production in steelmaking plants. Energy Conversion and Management, 263, 115688. DOI: https://doi.org/10.1016/j.enconman.2022.115688 (This article related to the project of advanced thermodynamic course)</p>
   <a class="button button1"  href="https://haghanimanesh.github.io/ma.haghanimanesh-resume/abstract3.html"><b> Abstract of Article</b></a>
  
   <p class="p1"><b>3. Maedeh Haghanimanesh</b>, Masoud Ziaei-Rad, Ehsan Baniasadi. "Two-dimensional modeling and comparison of turbulence flow modeling methods in a two-stage ejector in the refrigeration cycle." To be submitted. (This article related to the project of Turbulence course)</p>
