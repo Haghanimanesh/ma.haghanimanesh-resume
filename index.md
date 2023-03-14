@@ -45,7 +45,7 @@
   <p class="p1">- Last name : Haghanimanesh</p>
   <p class="p1">- Date of birth : 1986/June/18</p>
   <p class="p1">- Location : Esfahan , IRAN</p>
-   <p class="p1">- Email1 : ma.haghanimanesh@eng.ui.ac.ir </p>
+   <p class="p1">- Email1 : haghani2@uwindsor.ca </p>
   <p class="p1">- Email2 : haghanimanesh.maedeh@gmail.com </p>
   <hr/>
   <!-- -------------------------------------------------------- -->
@@ -78,13 +78,16 @@
   <p class="p1"><b>4. Maedeh Haghanimanesh</b>, Ehsan Baniasadi. "Thermal Modeling of Heating, Cooling and Solar Power of a Zero Energy Building with TRNSYS and TRNBUILD Software." To be submitted. (This article related to the project of Advanced solar energy course)</p>
   <a class="button button1"  href="https://haghanimanesh.github.io/ma.haghanimanesh-resume/abstract4.html"><b> Abstract of Article</b></a>
  
-  <p class="p1"><b>5. Maedeh Haghanimanesh</b>, Ehsan Baniasadi. "Exergy-economic and exergy-environment analysis of waste heat recovery process from annealing furnace of cold rolled steel coils during cooling phase." In preparation. (This article related to the master of science thesis course)</p>
+  <p class="p1"><b>5. Maedeh Haghanimanesh</b>, Ehsan Baniasadi. "Energy, Exergy, Exergy-Economic and Exergy-Environment (4E) Anlysis of Waste Heat Recovery Process from Annealing Furnace of Cold Rolled Steel Coils during Cooling Phase with PCMs Energy Storage- Part1: Simulation & 4E results" In preparation. (This article related to the master of science thesis course)</p>
   <a class="button button1"  href="https://haghanimanesh.github.io/ma.haghanimanesh-resume/abstract7.html"><b> Abstract of Article</b></a>
   
-   <p class="p1"><b>6. Maedeh Haghanimanesh</b>, Ehsan Baniasadi. "Exergy-economic and exergy-environmental analysis of waste heat recovery process from exhaust gas of box annealing furnace in cold rolling mill" In preparation. (This article related to the master of science thesis course)</p>
+  <p class="p1"><b>6. Maedeh Haghanimanesh</b>, Ehsan Baniasadi. "Energy, Exergy, Exergy-Economic and Exergy-Environment (4E) Anlysis of Waste Heat Recovery Process from Annealing Furnace of Cold Rolled Steel Coils during Cooling Phase with PCMs Energy Storage- Part2: Parametric Results" In preparation. (This article related to the master of science thesis course)</p>
+  <a class="button button1"  href="https://haghanimanesh.github.io/ma.haghanimanesh-resume/abstract7.html"><b> Abstract of Article</b></a>
+  
+   <p class="p1"><b>7. Maedeh Haghanimanesh</b>, Ehsan Baniasadi. "Exergy-economic and exergy-environmental analysis of waste heat recovery process from exhaust gas of box annealing furnace in cold rolling mill" In preparation. (This article related to the master of science thesis course)</p>
   <a class="button button1"  href="https://haghanimanesh.github.io/ma.haghanimanesh-resume/abstract8.html"><b> Abstract of Article</b></a>
   
-   <p class="p1"><b>7. Maedeh Haghanimanesh</b>, Ehsan Baniasadi. "Study of new methods for dust control in industries" Internal magazine of Esfahan's Mobarakeh Steel complex (Jan. 2021) (In Persian)</p>
+   <p class="p1"><b>8. Maedeh Haghanimanesh</b>, Ehsan Baniasadi. "Study of new methods for dust control in industries" Internal magazine of Esfahan's Mobarakeh Steel complex (Jan. 2021) (In Persian)</p>
  
   <hr/>
   <!-- -------------------------------------------------------- -->
