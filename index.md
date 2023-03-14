@@ -44,7 +44,7 @@
   <p class="p1">- Name: Maedeh</p>
   <p class="p1">- Last name : Haghanimanesh</p>
   <p class="p1">- Date of birth : 1986/June/18</p>
-  <p class="p1">- Location : Esfahan , IRAN</p>
+  <p class="p1">- Location : Windsor, Ontario, Canada</p>
    <p class="p1">- Email1 : haghani2@uwindsor.ca </p>
   <p class="p1">- Email2 : haghanimanesh.maedeh@gmail.com </p>
   <hr/>
