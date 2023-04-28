@@ -95,27 +95,15 @@
   <table style="width:100%">
   <tr>
     <td class="p1">•	Renewable Energy Technologies</td>
-    <td class="p1">•	Thermal Engineering</td> 
+    <td class="p1">•	Thermal Engineering/ / Jet Impingement</td> 
   </tr>
   <tr>
-    <td class="p1">•	Waste Heat Recovery Systems</td>
-    <td class="p1">•	Combustion analysis </td>
+    <td class="p1">•	Turbulence flow modeling</td>
+    <td class="p1">•	CFD Analysis  </td>
   </tr>
   <tr>
     <td class="p1">•	Energy Conversion and Sustainable Energy</td>
-    <td class="p1">•	CFD Analysis/ Turbulent flows Modeling</td> 
-  </tr>
-    <tr>
-    <td class="p1">•	Energy Exchangers and Energy Storage Systems</td>
-    <td class="p1">•	Materials science/ Nano science</td> 
-  </tr>
-    <tr>
-    <td class="p1">•	Net Zero Energy Buildings</td>
-    <td class="p1">•	Hydrogen and Fuel Cells Technologies </td> 
-  </tr>
-    <tr>
-    <td class="p1">•	Solar systems/photovoltaics</td>
-    <td class="p1"> </td> 
+    <td class="p1">•	Energy Exchangers and Energy Storage Systems</td> 
   </tr>
 </table>
   <hr/>
